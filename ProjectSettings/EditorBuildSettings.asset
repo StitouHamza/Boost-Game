@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Blocky.unity
+    guid: 1ef66e930db3e0a4d96b562eefd5270b
+  - enabled: 1
+    path: Assets/Scenes/Gap.unity
+    guid: 8b355b7e24df7f143832430335036ba6
+  - enabled: 1
+    path: Assets/Scenes/Chute.unity
+    guid: 10fb387c6d82ae24fa0554f7c67420fd
+  - enabled: 1
+    path: Assets/Scenes/Timing.unity
+    guid: addce685bda2c124e94d0ea93066452a
+  - enabled: 1
+    path: Assets/Scenes/Triple.unity
+    guid: 8a46843e19a76874fb6e6c18d613e8d2
+  - enabled: 1
+    path: Assets/Scenes/Double Triple.unity
+    guid: 67adb91809666314aa66b60d1425e4f0
   m_configObjects: {}
